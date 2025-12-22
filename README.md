@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaTaras&repo=PinnedLoading&theme=dark" />
+</p>
 <h1 align="center">Hi there, I'm giant(ไจแอนท์)</h1>
 
 
