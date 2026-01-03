@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm giant(ไจแอนท์)</h1>
+<h1 align="center">Hi there, I'm giant(ไจแอนท์) </h1>
 
 <h3 align="left">Languages and Tools</h3>
 
