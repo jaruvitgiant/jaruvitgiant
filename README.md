@@ -20,7 +20,7 @@
 <pre>
 <h3 align="left">ความเชี่ยวชาญด้านการเขียนโปรแกรม</h3>
  Python      ⭐⭐⭐⭐⭐ Intermediate  
- JavaScript  ⭐⭐ Intermediate 
+ JavaScript  ⭐ Intermediate 
  HTML/CSS    ⭐⭐⭐⭐ Intermediate  
  SQL         ⭐⭐ Intermediate   
  Django      ⭐⭐⭐ Intermediate  
